@@ -1,6 +1,4 @@
-'''
-Lokales K8S Cluster mit Prometeus, Grafana und Loki aufsetzen
-'''
+### Lokales K8S Cluster mit Prometeus, Grafana und Loki aufsetzen
 
 ## Repo
 - Klone das Repo https://github.com/TS-BudgetBook/budgetbook/blob/feature/monitoring-statistics/k8s/LOGGING.md
